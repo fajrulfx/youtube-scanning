@@ -1,4 +1,4 @@
-# youtube-screening
+# youtube-scanning
 Simple code for bulk scanning of youtube videos
 
 # Background
