@@ -1,1 +1,1 @@
-youtube-dl --sub-lang id --write-auto-sub --skip-download -o '/Output_Folder/%(uploader)s,%(title)s,%(id)s' --batch-file='/path to txt file'
+youtube-dl --sub-lang id --write-auto-sub --skip-download -o '/Output_Folder/%(uploader)s,%(title)s,%(id)s' --batch-file '/path to txt file'
